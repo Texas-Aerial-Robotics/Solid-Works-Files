@@ -1,0 +1,1 @@
+﻿"wall_thickness"= 7.5mm
